@@ -1,7 +1,14 @@
 Escobedo 
 Zamarripa 
 Julio Alberto
+<<<<<<< HEAD
+05100
+
+
+GRACIAS POR SU ATENCION!!!!!
+=======
 051005
 
 
 MUY BIEN!!
+
